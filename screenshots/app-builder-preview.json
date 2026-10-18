@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "(1) Cove",
+      "hasCanvas": false,
+      "bodyTextLen": 975,
+      "bodyTextHash": "bf67755c4e3d7dbed90f98047556e4d73686164a56dba6c573d78e39997f77f6",
+      "bodyTextPrefix": "AR Cove All Unread Personal Work Pinned MC Maya Chen 5:28 PM I l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "(3) Cove",
+      "hasCanvas": false,
+      "bodyTextLen": 474,
+      "bodyTextHash": "b848280ec4993f83c4d5f554a47b4a3d7c04f51bf94096493555b5d6c7020b96",
+      "bodyTextPrefix": "AR Cove All Unread Personal Work Pinned MC Maya Chen 5:28 PM I l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
